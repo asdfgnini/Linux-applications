@@ -1,3 +1,0 @@
-/home/topeet/vscode/github/Linux-applictions/build/CMakeFiles/rebuild_cache.dir
-/home/topeet/vscode/github/Linux-applictions/build/CMakeFiles/UDP.dir
-/home/topeet/vscode/github/Linux-applictions/build/CMakeFiles/edit_cache.dir

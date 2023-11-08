@@ -1,1 +1,0 @@
-/usr/bin/g++   -g  -Wall -g   CMakeFiles/UDP.dir/demo_03_libevent_client.cpp.o  -o UDP  -L/home/topeet/tools/libevent -Wl,-rpath,/home/topeet/tools/libevent -Wl,-Bstatic -levent -levent_core -levent_extra -levent_openssl -levent_pthreads -Wl,-Bdynamic 
