@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/topeet/vscode/github/Linux-applictions/build",
+  "command": "/usr/bin/g++   -I/home/topeet/tools/libevent   -g  -Wall -g   -o CMakeFiles/UDP.dir/demo_03_libevent_client.cpp.o -c /home/topeet/vscode/github/Linux-applictions/UDP/client_lib/demo_03_libevent_client.cpp",
+  "file": "/home/topeet/vscode/github/Linux-applictions/UDP/client_lib/demo_03_libevent_client.cpp"
+}
+]

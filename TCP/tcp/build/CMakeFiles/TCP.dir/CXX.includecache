@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/topeet/vscode/github/Linux-applictions/TCP/tcp/tcp.cpp
+tcp.h
+/home/topeet/vscode/github/Linux-applictions/TCP/tcp/tcp.h
+
+/home/topeet/vscode/github/Linux-applictions/TCP/tcp/tcp.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+iostream
+-
+string
+-
+

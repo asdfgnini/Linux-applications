@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++   -g  -Wall -g   CMakeFiles/TCP_S.dir/demo_04_libevent_client.cpp.o  -o TCP_S  -L/home/topeet/tools/libevent-arm -Wl,-rpath,/home/topeet/tools/libevent-arm -levent 

@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC  -g  -Wall -g  -shared -Wl,-soname,libTCP.so -o libTCP.so CMakeFiles/TCP.dir/tcp.cpp.o 

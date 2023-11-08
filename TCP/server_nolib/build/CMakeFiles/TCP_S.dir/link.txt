@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++   -g  -Wall -g   CMakeFiles/TCP_S.dir/demo_02_server.cpp.o  -o TCP_S  -L/home/topeet/vscode/github/Linux-applictions/TCP/server_nolib/../tcp/build -Wl,-rpath,/home/topeet/vscode/github/Linux-applictions/TCP/server_nolib/../tcp/build -lTCP_S 

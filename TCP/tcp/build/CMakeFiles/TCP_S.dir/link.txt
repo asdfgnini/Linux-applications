@@ -1,0 +1,1 @@
+/home/topeet/Downloads/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-g++ -fPIC  -g  -Wall -g  -shared -Wl,-soname,libTCP_S.so -o libTCP_S.so CMakeFiles/TCP_S.dir/tcp.cpp.o 

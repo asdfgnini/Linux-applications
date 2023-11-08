@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/topeet/vscode/github/Linux-applictions/UDP/udp/udp.cpp
+udp.h
+/home/topeet/vscode/github/Linux-applictions/UDP/udp/udp.h
+
+/home/topeet/vscode/github/Linux-applictions/UDP/udp/udp.h
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/socket.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+fcntl.h
+-
+iostream
+-
+string
+-
+

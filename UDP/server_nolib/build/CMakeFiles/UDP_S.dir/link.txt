@@ -1,0 +1,1 @@
+aarch64-linux-gnu-g++   -g  -Wall -g   CMakeFiles/UDP_S.dir/demo_03_server.cpp.o  -o UDP_S   -L/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/../udp/build  -Wl,-rpath,/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/../udp/build -lUDP_S 

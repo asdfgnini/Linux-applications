@@ -1,0 +1,1 @@
+/home/topeet/Downloads/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu/bin/aarch64-linux-gnu-g++ -fPIC  -g  -Wall -g  -shared -Wl,-soname,libUDP_S.so -o libUDP_S.so CMakeFiles/UDP_S.dir/udp.cpp.o 

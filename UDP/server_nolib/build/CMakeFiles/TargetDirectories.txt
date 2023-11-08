@@ -1,0 +1,3 @@
+/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles/rebuild_cache.dir
+/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles/edit_cache.dir
+/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles/UDP_S.dir

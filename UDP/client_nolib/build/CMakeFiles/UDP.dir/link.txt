@@ -1,0 +1,1 @@
+/usr/bin/g++   -g  -Wall -g   CMakeFiles/UDP.dir/demo_01_client.cpp.o  -o UDP  -L/home/topeet/vscode/github/Linux-applictions/UDP/client_nolib/../udp/build -Wl,-rpath,/home/topeet/vscode/github/Linux-applictions/UDP/client_nolib/../udp/build -lUDP 

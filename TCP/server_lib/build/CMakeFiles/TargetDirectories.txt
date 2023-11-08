@@ -1,0 +1,3 @@
+/home/topeet/vscode/github/Linux-applictions/TCP/server_lib/build/CMakeFiles/rebuild_cache.dir
+/home/topeet/vscode/github/Linux-applictions/TCP/server_lib/build/CMakeFiles/TCP_S.dir
+/home/topeet/vscode/github/Linux-applictions/TCP/server_lib/build/CMakeFiles/edit_cache.dir
