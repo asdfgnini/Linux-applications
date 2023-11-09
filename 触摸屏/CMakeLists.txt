@@ -19,8 +19,8 @@ set(CMAKE_BUILD_TYPE Debug)
 
 
 if(PC)
-         add_executable(TCP demo_01_client.cpp tcp.h tcp.cpp)      
+    add_executable(TCP demo_01_client.cpp tcp.h tcp.cpp)      
 else(PC)
-        add_executable(TCP_S demo_02_server.cpp tcp.h tcp.cpp)
+    add_executable(TCP_S demo_02_server.cpp tcp.h tcp.cpp)
 endif(PC)
 

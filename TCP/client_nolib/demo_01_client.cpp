@@ -21,7 +21,6 @@ int main()
                 tcp.Write(sendData,sizeof(sendData));
                 tcp.Read(buffer,sizeof(buffer));
                 sleep(1);
-
         }
 
         return 0;

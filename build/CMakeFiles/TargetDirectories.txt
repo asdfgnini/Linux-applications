@@ -1,2 +1,0 @@
-/home/zjt/vscode/github/Linux-applications/build/CMakeFiles/rebuild_cache.dir
-/home/zjt/vscode/github/Linux-applications/build/CMakeFiles/edit_cache.dir

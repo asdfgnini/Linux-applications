@@ -77,7 +77,7 @@ int main(int argc,char* argv[])
 
     for(;;)
     {
-        /
+        
         /*****伪代码******/
         if (flag)
         {
