@@ -28,7 +28,7 @@ int main()
         LIJU.My = -15.6;
         LIJU.Mz = 45.6;
 
-        sprintf(buf,"LIJU:%ld,Fx:%0.2lf,Fy:%0.2lf,Fz:%0.2lf,Mx:%0.2lf,My:%0.2lf,Mz:%0.2lf\r\n"\
+        sprintf(buf,"LIJU:Fx:%0.2lf,Fy:%0.2lf,Fz:%0.2lf,Mx:%0.2lf,My:%0.2lf,Mz:%0.2lf\r\n"\
         ,LIJU.fx,LIJU.fy,LIJU.fz,LIJU.Mx,LIJU.My,LIJU.Mz);
         int fd = open("./udp.tmp",O_WRONLY);
         if (fd < 0)

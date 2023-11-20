@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/demo_03_server.cpp" "/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles/UDP_S.dir/demo_03_server.cpp.o"
+  "/home/zjt/github/Linux-applications/UDP/server_nolib/demo_03_server.cpp" "/home/zjt/github/Linux-applications/UDP/server_nolib/build/CMakeFiles/UDP_S.dir/demo_03_server.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -2,7 +2,7 @@
 #include <sys/epoll.h>
 
 
-// #define __Debug_info
+#define __Debug_info
 
 
 UDP     udp;
@@ -47,7 +47,7 @@ void addfd(int epollfd, int fd, bool one_shot)
 int main()
 {
         //创建UDP套接字，创建目标地址信息
-        udp.CreateSocket("192.168.10.200",8080);
+        udp.CreateSocket("192.168.10.100",8080);
         //判断管道是否存在
         const char *fifo_name = "./udp.tmp";
         if (access(fifo_name, F_OK) == -1)

@@ -44,10 +44,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/zjt/vscode/github/Linux-applictions/UDP/server_nolib
+CMAKE_SOURCE_DIR = /home/zjt/github/Linux-applications/UDP/server_nolib
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build
+CMAKE_BINARY_DIR = /home/zjt/github/Linux-applications/UDP/server_nolib/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ clean: CMakeFiles/UDP_S.dir/clean
 CMakeFiles/UDP_S.dir/all:
 	$(MAKE) -f CMakeFiles/UDP_S.dir/build.make CMakeFiles/UDP_S.dir/depend
 	$(MAKE) -f CMakeFiles/UDP_S.dir/build.make CMakeFiles/UDP_S.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles --progress-num=1,2 "Built target UDP_S"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/zjt/github/Linux-applications/UDP/server_nolib/build/CMakeFiles --progress-num=1,2 "Built target UDP_S"
 .PHONY : CMakeFiles/UDP_S.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/UDP_S.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zjt/github/Linux-applications/UDP/server_nolib/build/CMakeFiles 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/UDP_S.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/zjt/github/Linux-applications/UDP/server_nolib/build/CMakeFiles 0
 .PHONY : CMakeFiles/UDP_S.dir/rule
 
 # Convenience name for target.

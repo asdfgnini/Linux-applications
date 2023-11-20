@@ -6,5 +6,5 @@ CXX_FLAGS =  -g  -Wall -g
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/zjt/vscode/github/Linux-applictions/UDP/server_nolib/../udp 
+CXX_INCLUDES = -I/home/zjt/github/Linux-applications/UDP/server_nolib/../udp 
 
