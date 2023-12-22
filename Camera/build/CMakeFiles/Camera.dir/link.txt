@@ -1,0 +1,1 @@
+g++   -std=c++11 -pthread   CMakeFiles/Camera.dir/main.cpp.o CMakeFiles/Camera.dir/v4l2.cpp.o  -o Camera 

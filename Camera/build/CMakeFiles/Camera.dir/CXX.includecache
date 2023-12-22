@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zjt/vscode/shexiangtou/main.cpp
+iostream
+-
+v4l2.h
+/home/zjt/vscode/shexiangtou/v4l2.h
+
+/home/zjt/vscode/shexiangtou/v4l2.cpp
+v4l2.h
+/home/zjt/vscode/shexiangtou/v4l2.h
+
+/home/zjt/vscode/shexiangtou/v4l2.h
+cstdio
+-
+cstdlib
+-
+string
+-
+sys/types.h
+-
+sys/stat.h
+-
+fcntl.h
+-
+unistd.h
+-
+
