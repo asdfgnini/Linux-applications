@@ -1,3 +1,0 @@
-/home/zjt/vscode/shexiangtou/build/CMakeFiles/rebuild_cache.dir
-/home/zjt/vscode/shexiangtou/build/CMakeFiles/edit_cache.dir
-/home/zjt/vscode/shexiangtou/build/CMakeFiles/Camera.dir

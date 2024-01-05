@@ -1,0 +1,3 @@
+/home/alientek/vscode/v4l2/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/vscode/v4l2/build/CMakeFiles/edit_cache.dir
+/home/alientek/vscode/v4l2/build/CMakeFiles/V4l2.dir

@@ -1,0 +1,1 @@
+arm-linux-gnueabihf-gcc    CMakeFiles/DRM.dir/main02.c.o  -o DRM   -L/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/target/usr/lib  -Wl,-rpath,/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/target/usr/lib -ldrm 

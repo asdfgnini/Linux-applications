@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alientek/vscode/v4l2/build",
+  "command": "arm-linux-gnueabihf-gcc  -I/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/build/libdrm-2.4.89 -I/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/build/libdrm-2.4.89/include/drm -I/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/build/jpeg-turbo-2.0.2  -g   -o CMakeFiles/V4l2.dir/main.c.o   -c /home/alientek/vscode/v4l2/main.c",
+  "file": "/home/alientek/vscode/v4l2/main.c"
+}
+]

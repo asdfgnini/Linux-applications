@@ -1,0 +1,3 @@
+/home/alientek/vscode/drm/build/CMakeFiles/rebuild_cache.dir
+/home/alientek/vscode/drm/build/CMakeFiles/edit_cache.dir
+/home/alientek/vscode/drm/build/CMakeFiles/DRM.dir

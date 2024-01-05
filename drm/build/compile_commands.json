@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/alientek/vscode/drm/build",
+  "command": "arm-linux-gnueabihf-gcc  -I/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/build/libdrm-2.4.89 -I/home/alientek/sdk/rv1126/buildroot/output/alientek_rv1126/build/libdrm-2.4.89/include/drm  -g   -o CMakeFiles/DRM.dir/main02.c.o   -c /home/alientek/vscode/drm/main02.c",
+  "file": "/home/alientek/vscode/drm/main02.c"
+}
+]
